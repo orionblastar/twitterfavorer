@@ -11,6 +11,10 @@ sudo pip3 install twitter
 Register with Twitter to get your API keys and fill them into the twitter_favourer.py library
 then you can use it to run your Twitter robot.
 
+Read this carefully:
+ 
+ https://dev.twitter.com/basics
+ 
 put both py files into one directory and then run
 
 python3 tweetbot.py
